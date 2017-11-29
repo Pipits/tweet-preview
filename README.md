@@ -1,5 +1,5 @@
 # Tweet Preview plugin
-The Tweet Preview plugin adds a preview to the tweet in the edit form when using the [Pipit Sharing](/pipits/apps/sharing) app.
+The Tweet Preview plugin adds a preview to the tweet in the edit form when using the [Pipit Sharing](https://grabapipit.com/pipits/apps/sharing) app.
 
 ## Installation
 * Download the latest version of the Tweet Preview plugin
@@ -9,7 +9,7 @@ The Tweet Preview plugin adds a preview to the tweet in the edit form when using
 
 ### Requirements
 * Perch or Perch Runway 3.0 or higher
-* [Pipit Sharing](/pipits/apps/sharing)
+* [Pipit Sharing](https://grabapipit.com/pipits/apps/sharing)
 
 ### Browsers
 The preview may not work on older browsers at this stage.
